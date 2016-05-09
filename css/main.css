@@ -1,0 +1,90 @@
+*{outline: 1px solid rgba(255,0,0,0.5);}*
+.container-fluid{
+	margin-right: 250px;
+  	margin-left: 250px;
+}
+.body{
+	background-color: #819FF7;
+
+}
+
+.header{
+	background-color: #E0ECF8 ;
+}
+
+.menu{
+	position: absolute;
+	text-align: center;
+	margin-top: 15px;
+	margin-bottom: 20px;
+	height: 30px;
+	margin-left: -250px;
+}
+.menu li{
+	display: inline-block;
+	padding: 0px;
+	font-family: 'Open Sans Condensed';
+	margin-left: 25px;
+
+	}
+.menu ul{
+    margin: 0px;
+    text-align: center;
+    padding: 0px;
+}
+.central{
+	margin-left: -15px;
+}
+
+img{
+	max-width: 100%;
+	margin: 10% 0% 0% 0%;
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+}
+.twit{
+	width: 100px;
+	margin: 0px 0px 20px 20px;
+}
+.mayor{
+	margin: 30px 15px 0px 15px;
+	font-size: 15px;
+}
+.titulo{
+	margin : 10px 10px 0px 10px;
+	font-size: 13px;
+}
+.boton{
+	border-radius: 40px;
+	margin: 13px 60px;
+	padding: 5px;
+}
+.colores{
+	display: inline-block;
+	vertical-align: top;
+	width: 40%;
+	margin-left: 35px;
+	margin-top: 89px;
+
+}
+.negro{
+background-color: black;
+color: white;
+
+}
+.final{
+	margin-left: -250px;
+	background-color: black;
+	color: white;
+	height: 140px;
+
+	
+
+}
+.mnfinal{
+	height: 240px;
+	background-color: black;
+	color: white;
+
+}
